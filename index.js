@@ -9,14 +9,14 @@ fs.readFile(__dirname + '/data/' + fileName, function(err, data) {
     	var locations_csv = "Name,Address1,Town,State,Postcode,Latitude,Longitude,Status,ToiletURL,Male,Female,FacilityType,ToiletType,AccessLimited,PaymentRequired,KeyRequired,Parking,AccessibleMale,AccessibleFemale,MLAK,ParkingAccessible,OpeningHours,BabyChange,Showers,DrinkingWater,SharpsDisposal,SanitaryDisposal\n";
     	for(var i=0; i<locations.length; i++) {
 
-    		var siteDetails = locations[i].$;
-    		var GeneralDetails = locations[i].GeneralDetails;
-    		var AccessibilityDetails = locations[i].AccessibilityDetails;
-    		var Features = locations[i].Features;
-    		var Icon = locations[i].Icon
+			var siteDetails = locations[i].$;
+			var GeneralDetails = locations[i].GeneralDetails;
+			var AccessibilityDetails = locations[i].AccessibilityDetails;
+			var Features = locations[i].Features;
+			var Icon = locations[i].Icon
 
-    		// Base site information.
-    		var Name = locations[i].Name;
+			// Base site information.
+			var Name = locations[i].Name;
 			var Address1 = locations[i].Address1;
 			var Town = locations[i].Town;
 			var State = locations[i].State;
@@ -30,30 +30,30 @@ fs.readFile(__dirname + '/data/' + fileName, function(err, data) {
 
 			// General details
 			var Male = GeneralDetails.Male;
-		    var Female = GeneralDetails.Female;
-		    var FacilityType = GeneralDetails.FacilityType;
-		    var ToiletType = GeneralDetails.ToiletType;
-		    var AccessLimited = GeneralDetails.AccessLimited;
-		    var PaymentRequired = GeneralDetails.PaymentRequired;
-		    var KeyRequired = GeneralDetails.KeyRequired;
-		    var Parking = GeneralDetails.Parking;
+			var Female = GeneralDetails.Female;
+			var FacilityType = GeneralDetails.FacilityType;
+			var ToiletType = GeneralDetails.ToiletType;
+			var AccessLimited = GeneralDetails.AccessLimited;
+			var PaymentRequired = GeneralDetails.PaymentRequired;
+			var KeyRequired = GeneralDetails.KeyRequired;
+			var Parking = GeneralDetails.Parking;
 
 			// Accessibility details
 			var AccessibleMale = AccessibilityDetails.AccessibleMale;
-		    var AccessibleFemale = AccessibilityDetails.AccessibleFemale;
-		    var AccessibleUnisex = AccessibilityDetails.AccessibleUnisex;
-		    var MLAK = AccessibilityDetails.MLAK;
-		    var ParkingAccessible = AccessibilityDetails.ParkingAccessible;
+			var AccessibleFemale = AccessibilityDetails.AccessibleFemale;
+			var AccessibleUnisex = AccessibilityDetails.AccessibleUnisex;
+			var MLAK = AccessibilityDetails.MLAK;
+			var ParkingAccessible = AccessibilityDetails.ParkingAccessible;
 
 			// Opening hours
 			var OpeningHours = locations[i].OpeningHours.IsOpen;
 
 			// Features
 			var BabyChange = Features.BabyChange
-		    var Showers = Features.Showers
-		    var DrinkingWater = Features.DrinkingWater
-		    var SharpsDisposal = Features.SharpsDisposal
-		    var SanitaryDisposal = Features.SanitaryDisposal
+			var Showers = Features.Showers
+			var DrinkingWater = Features.DrinkingWater
+			var SharpsDisposal = Features.SharpsDisposal
+			var SanitaryDisposal = Features.SanitaryDisposal
 
 			// Icon details
 			var IconAltText = Icon.IconAltText
