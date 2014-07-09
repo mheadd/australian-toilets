@@ -1,0 +1,11 @@
+{
+  "name": "australian-toilets",
+  "version": "0.0.1",
+  "description": "Script to convert XML to CSV for Australian public toilet locations",
+  "main": "index.js",
+  "dependencies": {
+    "xml2js": "latest"
+  },
+  "author": "Mark Headd <mheadd@accela.com> (http://civic.io/)",
+  "license": "ISC"
+}

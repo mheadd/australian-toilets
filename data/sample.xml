@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ToiletMapExport xmlns="http://toiletmap.gov.au/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema-datatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://toiletmap.gov.au/ file:./ToiletMapExport-V_1_0.xsd">
+	<ToiletDetails LastUpdateDate="2014-02-20Z" Latitude="-31.921836" Longitude="115.95020622" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/1" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Sandy Beach Reserve</Name>
+		<Address1>West Road</Address1>
+		<Town>Bassendean</Town>
+		<State>Western Australia</State>
+		<Postcode>6054</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>true</AccessibleMale>
+			<AccessibleFemale>true</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>true</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>true</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex (Accessible)">
+			<IconURL>https://toiletmap.gov.au/images/icons/mfa.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-02-25Z" Latitude="-31.9044101" Longitude="115.9609911" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/2" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Point Reserve</Name>
+		<Address1>North Road</Address1>
+		<Town>Bassendean</Town>
+		<State>Western Australia</State>
+		<Postcode>6054</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>true</AccessibleMale>
+			<AccessibleFemale>true</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>DaylightHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex (Accessible)">
+			<IconURL>https://toiletmap.gov.au/images/icons/mfa.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2010-03-10Z" Latitude="-31.89628865" Longitude="115.95578101" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/3" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Success Hill Reserve</Name>
+		<Address1>Off Seventh Avenue</Address1>
+		<Town>Bassendean</Town>
+		<State>Western Australia</State>
+		<Postcode>6054</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>true</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>true</AccessibleMale>
+			<AccessibleFemale>true</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>true</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>DaylightHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>true</BabyChange>
+			<Showers>true</Showers>
+			<DrinkingWater>true</DrinkingWater>
+			<SharpsDisposal>true</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex (Accessible)">
+			<IconURL>https://toiletmap.gov.au/images/icons/mfa.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2010-03-10Z" Latitude="-31.891474" Longitude="115.9401637" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/4" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Jubilee Reserve</Name>
+		<Address1>Robinson Road</Address1>
+		<Town>Eden Hill</Town>
+		<State>Western Australia</State>
+		<Postcode>6054</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>DaylightHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>true</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2010-03-10Z" Latitude="-31.91343349" Longitude="115.9364772" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/5" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Ashfield Reserve</Name>
+		<Address1>Guildford Road</Address1>
+		<Town>Ashfield</Town>
+		<State>Western Australia</State>
+		<Postcode>6054</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>true</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>true</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>DaylightHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>true</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-02-25Z" Latitude="-31.90444241" Longitude="115.9500197" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/6" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Old Perth Road &amp; James Street</Name>
+		<Address1>Corner of Old Perth Road &amp; James Street</Address1>
+		<Town>Bassendean</Town>
+		<State>Western Australia</State>
+		<Postcode>6054</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>true</AccessibleMale>
+			<AccessibleFemale>true</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>DaylightHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex (Accessible)">
+			<IconURL>https://toiletmap.gov.au/images/icons/mfa.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2010-03-10Z" Latitude="-31.89036599" Longitude="115.9480897" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/7" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Mary Crescent Reserve</Name>
+		<Address1>Mary Crescent</Address1>
+		<Town>Eden Hill</Town>
+		<State>Western Australia</State>
+		<Postcode>6054</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>true</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>true</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>DaylightHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>true</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-02-25Z" Latitude="-31.90371581" Longitude="115.9564902" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/9" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Bassendean Oval 3</Name>
+		<Address1>Old Perth Road</Address1>
+		<Town>Bassendean</Town>
+		<State>Western Australia</State>
+		<Postcode>6054</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Sporting facility</FacilityType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>true</AccessibleMale>
+			<AccessibleFemale>true</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>Variable</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex (Accessible)">
+			<IconURL>https://toiletmap.gov.au/images/icons/mfa.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-01-31Z" Latitude="-22.01444418" Longitude="148.04524183" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/15" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Apex Park, Moranbah Access Road</Name>
+		<Address1>Goonyella Road</Address1>
+		<Town>Moranbah</Town>
+		<State>Queensland</State>
+		<Postcode>4744</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>true</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-01-31Z" Latitude="-21.9993408" Longitude="148.04397329" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/16" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Lions Park, Belyando Avenue</Name>
+		<Address1>12 Belyando Avenue</Address1>
+		<Town>Moranbah</Town>
+		<State>Queensland</State>
+		<Postcode>4744</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>true</Parking>
+			<ParkingNote>Parking is available on Belyando Avenue, then a short walk into the park to access the toilet</ParkingNote>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+			<AccessibleParkingNote>Parking is available on Belyando Avenue, then a short walk into the park to access the toilet</AccessibleParkingNote>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-01-31Z" Latitude="-22.0001525" Longitude="148.04861593" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/17" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Parella Street</Name>
+		<Address1>Parella Street</Address1>
+		<Town>Moranbah</Town>
+		<State>Queensland</State>
+		<Postcode>4744</Postcode>
+		<GeneralDetails>
+			<Male>false</Male>
+			<Female>false</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>true</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>true</AccessibleMale>
+			<AccessibleFemale>true</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>true</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex (Accessible)">
+			<IconURL>https://toiletmap.gov.au/images/icons/mfa.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-01-31Z" Latitude="-22.00330089" Longitude="148.0661184" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/18" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Nolan Park</Name>
+		<Address1>Yeates Street</Address1>
+		<Town>Moranbah</Town>
+		<State>Queensland</State>
+		<Postcode>4744</Postcode>
+		<GeneralDetails>
+			<Male>false</Male>
+			<Female>false</Female>
+			<Unisex>true</Unisex>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>true</Parking>
+			<ParkingNote>On street parking available</ParkingNote>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+			<AccessibleParkingNote>On street parking available</AccessibleParkingNote>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-01-31Z" Latitude="-22.00475579" Longitude="148.03688242" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/20" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Binda Park</Name>
+		<Address1>Grosvenor Drive</Address1>
+		<Town>Moranbah</Town>
+		<State>Queensland</State>
+		<Postcode>4744</Postcode>
+		<AddressNote>Toilet is located at the far end of the park, near Grosvenor Drive</AddressNote>
+		<GeneralDetails>
+			<Male>false</Male>
+			<Female>false</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>true</Parking>
+			<ParkingNote>Parking is available at the other end of the park from Isaac Way, heading towards Goonyella Road</ParkingNote>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>true</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+			<AccessibleParkingNote>Parking is available at the other end of the park from Isaac Way, heading towards Goonyella Road</AccessibleParkingNote>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+			<OpeningHoursSchedule>Mon-Fri 7am-3pm</OpeningHoursSchedule>
+		</OpeningHours>
+		<Features>
+			<BabyChange>true</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex (Accessible)">
+			<IconURL>https://toiletmap.gov.au/images/icons/mfa.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2013-07-25Z" Latitude="-22.83395213" Longitude="147.6281099" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/21" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Samson Street, Spring Park</Name>
+		<Address1>Samson Street</Address1>
+		<Town>Clermont</Town>
+		<State>Queensland</State>
+		<Postcode>4721</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2013-07-25Z" Latitude="-22.83004599" Longitude="147.6280868" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/22" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Copperfield Road, Lions Park</Name>
+		<Address1>Copperfield Road</Address1>
+		<Town>Clermont</Town>
+		<State>Queensland</State>
+		<Postcode>4721</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2008-01-31Z" Latitude="-22.81719492" Longitude="147.6423012" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/23" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Drummond Street</Name>
+		<Address1>Drummond Street</Address1>
+		<Town>Clermont</Town>
+		<State>Queensland</State>
+		<Postcode>4721</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+	<ToiletDetails LastUpdateDate="2013-07-25Z" Latitude="-22.8183737" Longitude="147.6417002" Status="Verified" ToiletURL="https://toiletmap.gov.au/toilet/24" xmlns="http://toiletmap.gov.au/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://toiletmap.gov.au/ file:./ToiletDetails-V_1_0.xsd">
+		<Name>Lime Street, Centenary Park</Name>
+		<Address1>Lime Street</Address1>
+		<Town>Clermont</Town>
+		<State>Queensland</State>
+		<Postcode>4721</Postcode>
+		<GeneralDetails>
+			<Male>true</Male>
+			<Female>true</Female>
+			<FacilityType>Park or reserve</FacilityType>
+			<ToiletType>Sewerage</ToiletType>
+			<AccessLimited>false</AccessLimited>
+			<PaymentRequired>false</PaymentRequired>
+			<KeyRequired>false</KeyRequired>
+			<Parking>false</Parking>
+		</GeneralDetails>
+		<AccessibilityDetails>
+			<AccessibleMale>false</AccessibleMale>
+			<AccessibleFemale>false</AccessibleFemale>
+			<AccessibleUnisex>false</AccessibleUnisex>
+			<MLAK>false</MLAK>
+			<ParkingAccessible>false</ParkingAccessible>
+		</AccessibilityDetails>
+		<OpeningHours>
+			<IsOpen>AllHours</IsOpen>
+		</OpeningHours>
+		<Features>
+			<BabyChange>false</BabyChange>
+			<Showers>false</Showers>
+			<DrinkingWater>false</DrinkingWater>
+			<SharpsDisposal>false</SharpsDisposal>
+			<SanitaryDisposal>false</SanitaryDisposal>
+		</Features>
+		<Icon IconAltText="Male and Female, or Unisex">
+			<IconURL>https://toiletmap.gov.au/images/icons/mf.png</IconURL>
+		</Icon>
+	</ToiletDetails>
+</ToiletMapExport>
