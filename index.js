@@ -59,7 +59,7 @@ fs.readFile(__dirname + '/data/' + fileName, function(err, data) {
 			var IconAltText = Icon.IconAltText
 			var IconURL = Icon.IconURL
 
-			locations_csv += '"'+Name+'","'+Address1+'","'+Town+'","'+State+'","'+Postcode+'","'+Latitude+'","'+Longitude+'","'+Status+'","'+ToiletURL+'","'+Male+'","'+Female+'","'+FacilityType+'","'+ToiletType+'",'+AccessLimited+','+PaymentRequired+','+KeyRequired+','+Parking+','+AccessibleMale+','+AccessibleFemale+','+MLAK+','+ParkingAccessible+',"'+OpeningHours+'",'+BabyChange+','+Showers+','+DrinkingWater+','+SharpsDisposal+','+SanitaryDisposal+'\n';;
+			locations_csv += '"'+Name+'","'+Address1+'","'+Town+'","'+State+'","'+Postcode+'","'+Latitude+'","'+Longitude+'","'+Status+'","'+ToiletURL+'","'+Male+'","'+Female+'","'+FacilityType+'","'+ToiletType+'",'+AccessLimited+','+PaymentRequired+','+KeyRequired+','+Parking+','+AccessibleMale+','+AccessibleFemale+','+MLAK+','+ParkingAccessible+',"'+OpeningHours+'",'+BabyChange+','+Showers+','+DrinkingWater+','+SharpsDisposal+','+SanitaryDisposal+'\n';
     	}
     	console.log(locations_csv);
 
