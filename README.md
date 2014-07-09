@@ -9,4 +9,4 @@ A simple Node.js script to convert the XML file provided by Commonwealth of Aust
 * Run <code>npm install</code>.
 * Invoke thusly:
 
-    node index.js [fileName] > shiny-new.csv
+	node index.js [fileName] > shiny-new.csv
